@@ -1,2 +1,2 @@
-# intro_to_processing
+# intro to processing
 Files for the tutorial: https://youtu.be/wghDDYnIFM0
